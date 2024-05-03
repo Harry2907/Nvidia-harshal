@@ -25,6 +25,6 @@ Create a new Pull Request.
 
 
 <h2>Contact:</h2>
-For inquiries, contact [Harry2907] at [harshalpachange29@gmail.com].
+For inquiries, contact Harry2907 at <a>harshalpachange29@gmail.com.</a>
 
 Feel free to customize this template further to suit your project's specific needs!
