@@ -1,22 +1,20 @@
 <h1>Clone Website Project</h1>
 
-Description:
+<h2>Description:</h2>
 This project is a clone website inspired by [Original Website Name]. It aims to replicate the key features and design elements of the original site.
 
-Technologies Used:
+<h2>Technologies Used:</h2>
 HTML
 CSS
 JavaScript
-Features:
-User authentication (signup, login, logout)
-Responsive design for various devices
-Search functionality
-[Add any other features]
+
+
 Setup Instructions:
 Clone this repository.
 Open the project folder in your code editor.
 Open the index.html file in your browser to view the website.
-Contribution:
+
+<h2>Contribution:</h2>
 We welcome contributions! If you want to contribute:
 
 Fork the repository.
@@ -24,12 +22,9 @@ Create a new branch (git checkout -b feature/new-feature).
 Make your changes and commit them (git commit -am 'Add new feature').
 Push to the branch (git push origin feature/new-feature).
 Create a new Pull Request.
-Credits:
-[List of contributors or credits for any external resources used]
-License:
-This project is licensed under [License Name]. See the LICENSE file for details.
 
-Contact:
-For inquiries, contact [Your Name] at [Your Email Address].
+
+<h2>Contact:</h2>
+For inquiries, contact [Harry2907] at [harshalpachange29@gmail.com].
 
 Feel free to customize this template further to suit your project's specific needs!
