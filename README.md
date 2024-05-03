@@ -1,7 +1,5 @@
+<h1>Clone Website Project</h1>
 
-Certainly! Here's a simplified version of a README file for your clone website project:
-
-Clone Website Project
 Description:
 This project is a clone website inspired by [Original Website Name]. It aims to replicate the key features and design elements of the original site.
 
